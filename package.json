@@ -1,0 +1,28 @@
+{
+  "name": "instagramcrawler",
+  "version": "0.1.0",
+  "description": "Downloading instagram videos",
+  "main": "dist/app.js",
+  "dependencies": {
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevonThomassen/instagramcrawler.git"
+  },
+  "keywords": [
+    "instagram",
+    "video",
+    "download"
+  ],
+  "author": "D. Thomassen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevonThomassen/instagramcrawler/issues"
+  },
+  "homepage": "https://github.com/DevonThomassen/instagramcrawler#readme"
+}
